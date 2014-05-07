@@ -1,0 +1,12 @@
+{
+  "name": "BetuniqWeb",
+  "version": "2.0.0",
+  "devDependencies": {
+    "uglify-js": "",
+	"walk" : "",
+	"clean-css" : "2.1.4",
+	"path" : "",
+	"grunt" : "",
+	"grunt-docular" : ""
+  }
+}
